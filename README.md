@@ -16,9 +16,16 @@ Our code is tested on the following environment (probably also works on other en
 
 ## Datasets, Victim Models, and Pre-trained Policy Networks
 
-For the required dataset, victim models, and pre-trained weights of policy networks, please download a tarball at [this link](https://drive.google.com/file/d/1dvxCYiv5GGM8Zl-7b-MEm0G3vard69lE/view?usp=sharing) and extract it.
+有关所需的数据集，受害模型和策略网络的预训练权重，请在[此链接] （https://drive.google.com/file/d/1dvxCYiv5GGM8Zl-7b-MEm0G3vard69lE/view?usp =共享）并将其提取。
 
-After extraction, the ```data``` directory should include dataset and victim models for MNIST and CIFAR-10.
+
+链接：https://pan.baidu.com/s/1OkwtpjRcD-7UeyQqVoOrnA 
+提取码：e46p 
+复制这段内容后打开百度网盘手机App，操作更方便哦
+
+
+
+提取后，“ data”目录应包含MNIST和CIFAR-10的数据集和受害模型。
 
 For ImageNet dataset, we use the same data format as in the [Pytorch official ImageNet example](https://github.com/pytorch/examples/tree/master/imagenet), please put the dataset in ```data/imagenet```.
 
